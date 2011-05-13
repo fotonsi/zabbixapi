@@ -1,6 +1,7 @@
 require 'base'
 require 'graph'
 require 'group'
+require 'proxy'
 require 'host'
 require 'item'
 require 'screen'
