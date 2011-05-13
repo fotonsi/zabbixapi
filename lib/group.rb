@@ -25,7 +25,7 @@ module Zabbix
 
 		def group_exist?(pattern)
 		
-			group_id = get_groups_id(pattern)
+			group_id = get_group_id(pattern)
 
 			if ( group_id ) then
 				return true
